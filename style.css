@@ -1,0 +1,16 @@
+*, body, html{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    background-color: rgb(110, 101, 101);
+    font: 1em Oswalsd;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
